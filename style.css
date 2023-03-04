@@ -722,12 +722,12 @@ footer{
 
 @font-face {
     font-family: 'Freedoomed Demo';
-    src: url('FreedoomedDemo.eot');
-    src: url('FreedoomedDemo.eot?#iefix') format('embedded-opentype'),
-        url('FreedoomedDemo.woff2') format('woff2'),
-        url('FreedoomedDemo.woff') format('woff'),
-        url('FreedoomedDemo.ttf') format('truetype'),
-        url('FreedoomedDemo.svg#FreedoomedDemo') format('svg');
+    src: url('fonts/FreedoomedDemo.eot');
+    src: url('fonts/FreedoomedDemo.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FreedoomedDemo.woff2') format('woff2'),
+        url('fonts/FreedoomedDemo.woff') format('woff'),
+        url('fonts/FreedoomedDemo.ttf') format('truetype'),
+        url('fonts/FreedoomedDemo.svg#FreedoomedDemo') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -735,12 +735,12 @@ footer{
 
 @font-face {
     font-family: 'AmazDooMLeft';
-    src: url('AmazDooMLeft.eot');
-    src: url('AmazDooMLeft.eot?#iefix') format('embedded-opentype'),
-        url('AmazDooMLeft.woff2') format('woff2'),
-        url('AmazDooMLeft.woff') format('woff'),
-        url('AmazDooMLeft.ttf') format('truetype'),
-        url('AmazDooMLeft.svg#AmazDooMLeft') format('svg');
+    src: url('fonts/AmazDooMLeft.eot');
+    src: url('fonts/AmazDooMLeft.eot?#iefix') format('embedded-opentype'),
+        url('fonts/AmazDooMLeft.woff2') format('woff2'),
+        url('fonts/AmazDooMLeft.woff') format('woff'),
+        url('fonts/AmazDooMLeft.ttf') format('truetype'),
+        url('fonts/AmazDooMLeft.svg#AmazDooMLeft') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
