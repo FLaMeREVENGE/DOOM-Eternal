@@ -15,7 +15,7 @@ We have a wide website here where we can put any topic. I decided on one of the 
 - Javascript
 
 # My Portfolio :smiling_imp:
-### [Behance](https://www.behance.net/karolkomor1b9a) :computer:
+### [Behance](https://www.behance.net/KarolKomorowski) :computer:
 
 ![Behance Profile](behance_banner.png)
 ### [Github](https://github.com/FLaMeREVENGE) :paw_prints:
